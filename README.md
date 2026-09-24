@@ -1,4 +1,4 @@
-[github_readme_file.md](https://github.com/user-attachments/files/32609639/github_readme_file.md)
+
 # CSE422 Lab Project: Hotel Booking Cancellation Prediction
 
 This repository contains the full implementation of the CSE422 Machine Learning project focused on predicting hotel booking cancellations using Supervised and Unsupervised Learning techniques, including Deep Learning (ANN).
